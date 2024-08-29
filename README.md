@@ -22,7 +22,7 @@ Prerequisites:
 
 INSTALLATION:
 - Clone the Repository
-git clone https://github.com/yourusername/calculator.git
+git clone https://github.com/KSaayushofficial/calculator.git
 
 - Navigate to the Project Directory:
 cd calculator
